@@ -8,7 +8,7 @@ int main()
 
 printf("국민대학교");
 printf("국민대학교123");
-
+printf("1234");
 
 
 
