@@ -3,7 +3,9 @@
 int main()
 {
 
-	printf("���δ��б�!!");
+	printf("±¹¹Î´ëÇÐ±³!!");
+	
+	printf("ok");
 
 	return 0;
 
